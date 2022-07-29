@@ -27,8 +27,8 @@ let isToggelable = true; //pause with spacebar
 const defaultSettings = {
   times: {
     pomodoro: 25,
-    long: 5,
-    short: 15
+    long: 15,
+    short: 5
   },
   font: "var(--font-sans)",
   color: "var(--c-orange)",
