@@ -21,8 +21,8 @@ Users should be able to:
 
 ## Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/simple-card-component-27lgiHJKE3)
-- [Live site](https://meelix.github.io/frontendmentor-preview-card-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/pomodoro-app-with-localstorage-support-pBgjGG_eQM)
+- [Live site](https://meelix.github.io/frontendmentor-pomodoro-timer/)
 
 ## Built with
 
