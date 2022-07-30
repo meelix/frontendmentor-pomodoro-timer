@@ -299,7 +299,8 @@ main {
     border-radius: 25px;
     padding: 0;
     border: none;
-    width: max(300px, 37.5vw);
+    width: max(300px, 80vw);
+    max-width: 500px;
     position: relative;
     background-color: transparent;
     padding-bottom: 35px;
@@ -346,6 +347,10 @@ main {
     font-weight: 700;
     margin-bottom: 9px;
     font-size: 12px;
+}
+#settings input:invalid,
+#settings input:user-invalid {
+    outline: 1px solid #fa5210;
 }
 #settings #times input {
     grid-area: 3 / auto / 3 / auto;
@@ -484,6 +489,9 @@ main {
     }
     [data-theme-font="mono"] .timer #duration {
         font-size: 5.85rem;
+    }
+    #settings {
+        width: max(300px, 37.5vw);
     }
 }
 
