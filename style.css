@@ -255,7 +255,7 @@ main {
     background: none;
     border: none;
     color: var(--c-white);
-    padding: 1rem .5rem 1rem calc(.5rem + 19px);
+    padding: 1rem .5rem 1rem 13px;
     opacity: 1;
     pointer-events: auto;
     transition: opacity .1s, color .2s;
