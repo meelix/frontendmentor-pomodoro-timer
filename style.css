@@ -216,7 +216,7 @@ main {
 }
 
 .timer.finished .circular-progress #pct-ind {
-    transition: stroke-dashoffset .8s;
+    transition: stroke-dashoffset .65s;
 }
 
 .timer {
